@@ -1,0 +1,24 @@
+{
+  "name": "spyre-example",
+  "version": "1.0.0",
+  "description": "Example blog for testing Spyre functionality",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/spyre-example.git"
+  },
+  "keywords": [
+    "spyre",
+    "blog",
+    "test",
+    "example"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/spyre-example/issues"
+  },
+  "homepage": "https://github.com/jkup/spyre-example#readme"
+}
