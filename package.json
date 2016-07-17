@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/jkup/spyre-example/issues"
   },
-  "homepage": "https://github.com/jkup/spyre-example#readme"
+  "homepage": "https://github.com/jkup/spyre-example#readme",
+  "dependencies": {}
 }
